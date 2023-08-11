@@ -1,0 +1,2 @@
+#!/bin/bash
+CFILE="your_input_c_file.c" | cpp -P "$CFILE" > c
