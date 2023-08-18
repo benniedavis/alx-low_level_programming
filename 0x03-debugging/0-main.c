@@ -3,10 +3,11 @@
  * main - Test function for positive or negatve
  * Return: 0
  */
-int main (void)
-{	int i;
+int main(void)
+{
+	int i;
 
-	i = 0;
+	i = 98;
 	positive_or_negative(i);
 return (0);
 }
