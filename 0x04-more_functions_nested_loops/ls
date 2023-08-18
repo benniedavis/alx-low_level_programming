@@ -1,0 +1,7 @@
+#!/bin/bash
+
+ls
+git add .
+git commit -m "0x04 More function, more nested loops"
+git push
+echo "all commited"
