@@ -1,0 +1,6 @@
+#!/bin/bash
+ls
+git add .
+git commit -m " Pointers,  Arrays and strings"
+git push
+echo "file commited and pushed"
